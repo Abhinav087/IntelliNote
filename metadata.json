@@ -1,0 +1,5 @@
+{
+  "name": "IntelliNote Q&A Generator",
+  "description": "An intelligent agent that takes your notes and a question bank, then generates comprehensive answers enhanced with web search and relevant images.",
+  "requestFramePermissions": []
+}
